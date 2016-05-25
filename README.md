@@ -18,6 +18,7 @@ In order of awesomeness:
 * Maybs Quit
 * ColorPicker
 * Zen Tabs
+* tern_for_sublime
 * AngularJS
 * GitGutter
 
