@@ -9,19 +9,24 @@ In order of awesomeness:
 * JavaScript Refactor
 * Origami
 * SideBarEnhancements
+* BetterFindBuffer
 * SublimeLinter
 * SublimeLinter-annotations
 * GotoWindow
 * Pretty JSON
+* JsFormat
+* Maybs Quit
 * ColorPicker
 * Zen Tabs
+* AngularJS
 * GitGutter
 
 ## Themes
 
 * Spacegray
-* One Dark Color Scheme
 * Predawn
+* One Dark Color Scheme
+* Tomorrow Color Schemes
 
 ## Key Bindings
 
