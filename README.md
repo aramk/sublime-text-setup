@@ -24,6 +24,7 @@ In order of awesomeness:
 
 ## Themes
 
+* Boxy Tomorrow
 * Spacegray
 * Predawn
 * One Dark Color Scheme
